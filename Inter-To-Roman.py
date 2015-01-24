@@ -14,5 +14,5 @@ def intToRoman(num):
     return ''.join(stack)
 
 if __name__ == "__main__":
-    print intToRoman(400)
+    print intToRoman(3999)
     
